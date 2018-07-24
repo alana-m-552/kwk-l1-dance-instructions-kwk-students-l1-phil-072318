@@ -13,7 +13,7 @@ end
 def skip_step_(starting_foot)
   puts "Lower #{staring_foot} foot to the ground"
   puts "Bounce #{staring_foot} foot back up slightly, kicking it a few inches back"
-  puts "Briefly raise the opposite foot, then #{starting_foot} ."
+  puts "Briefly raise the opposite foot, then the #{starting_foot} twice more!"
 end 
 
 def bob_the_reins
