@@ -3,6 +3,7 @@
 def starting_stance
   puts "plant legs far apart, bend knees slightly and keep posture loose"
 end 
+
 def base_footwork
   puts "lift right foot"
   puts "return right foot to the ground"
